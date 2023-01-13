@@ -1,19 +1,17 @@
 ## 0x0B. Implement a design with bootstrap
 
-In this project, you will implement 3 web pages with Bootstrap. You will use all HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges that you learned previously.
-
-You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have fully functional web pages that look the same as the designer file.
+In this project, I have to implement 3 web pages with Bootstrap. I will use all HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges.
 
 Here the final result:
 
 ![Final result.](/images/README.jpg "This is the final result.")
 
 ## Requirements
-You have to use Bootstrap
-Your styles.css must be as small as you can - you must use as much as you can Bootstrap classes
+I have to use Bootstrap
+My styles.css must be as small as you can - you must use as much as you can Bootstrap classes
 
 ## Imports
-For this project, you will need: fonts from Google, JQuery, Bootstrap CSS/JS
+For this project, I will need: fonts from Google, JQuery, Bootstrap CSS/JS
 
 ```
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
